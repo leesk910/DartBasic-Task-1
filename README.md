@@ -7,7 +7,7 @@ Learn Dart basics (variables, operators, conditions, loops), write simple progra
 ![If Condition](IfCondition.png)
 
 ## For Loop
-![For Loop](ForLoop.png)
+![For Loop](ForLOOp.png)
 
 ## While Loop
 ![While Loop](WhileLOOP.png)
